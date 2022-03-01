@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apologeticall declaration of the conscientious Presbyterians of the province of London, and of many thousands of other faithfull and Covenant-keeping citizens, and inhabitants within the said city and suburbs thereof. Wherein their firmnesse and faithfulnesse to their first principles and to their solemn league and covenant is conscientiously declared; and the covenant-breaking and apostacie of others is disclaimed and abhorred before God and the whole world. Ianuarie the 24th, 1649.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01421</idno>
+            <idno type="STC">Wing A3539AA</idno>
+            <idno type="STC">ESTC R176217</idno>
+            <idno type="EEBO-CITATION">53298939</idno>
+            <idno type="OCLC">ocm 53298939</idno>
+            <idno type="VID">179729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179729)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2798:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apologeticall declaration of the conscientious Presbyterians of the province of London, and of many thousands of other faithfull and Covenant-keeping citizens, and inhabitants within the said city and suburbs thereof. Wherein their firmnesse and faithfulnesse to their first principles and to their solemn league and covenant is conscientiously declared; and the covenant-breaking and apostacie of others is disclaimed and abhorred before God and the whole world. Ianuarie the 24th, 1649.</title>
+               </titleStmt>
+               <extent>[1], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179729:1" rendition="simple:additions"/>
+            <p>AN APOLOGETICALL DECLARATION Of the Conſcientious <hi>Presbyterians</hi> of the Province of LONDON, and of many thouſands of other faithfull, and Covenant-keeping Citizens, and Inhabitants within the ſaid City and Suburbs thereof.</p>
+            <p>Wherein their firmeneſſe and faithfulneſſe to their firſt Principles, and to their <hi>Solemn League and Covenant</hi> is Conſcientiouſly declared; And the <hi>Covenant-breaking</hi> and <hi>Apoſtacie</hi> of Others is diſclaimed and abhorred before God and the Whole World.</p>
+            <p>
+               <hi>Ianuarie,</hi> the 24th, 1649.</p>
+            <q>
+               <bibl>Ezek. <hi>17.15.18.19.</hi>
+               </bibl>
+               <p>Shall they proſper, ſhall they eſcape, that do ſuch things? or ſhall they break the Covenant, and be delivered?</p>
+               <p>Seeing they have deſpiſed the Oath, by breaking the Covenant (when as, lo, they had given their hand) and have done all theſe things.</p>
+               <p>Therefore, thus ſaith the Lord God, As I live, ſurely, mine Oath which they have deſpiſed, and my Covenant which they have broken, even it will I recompenſe upon their own heads.</p>
+               <bibl>Job, <hi>22, 30.</hi>
+               </bibl>
+               <p>The innocent ſhall deliver the Iland; and it ſhall be preſerved by the pureneſs of thy hands.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Prented in the Year, 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="1" facs="tcp:179729:2"/>
+            <head>To the Reader.</head>
+            <p>COurteous Reader, It is prudentially conſidered and con<g ref="char:EOLhyphen"/>cluded on by the <hi>Subſcribers</hi> hereof, that (ſeeing their re<g ref="char:EOLhyphen"/>verent <hi>Ministers Repreſentation,</hi> with ſubſcription of their Names hath not taken that happie effect which was deſired, nor ſtayed the hands of thoſe to whom it was directed) therefore the publiſhing of their names that have ſubſcribed to this <hi>Apologeti<g ref="char:EOLhyphen"/>call Declaration,</hi> will in like manner, do but little good, in that reſpect; And, therefore, although they are upon record to the honour of the <hi>Goſpel</hi> they are not, now, publiſhed, in regard of the preſent over-awing Power of the Sword; but may and ſhall in due time appear in publick with more ample and (we hope) moſt ſatisfactory Demonſtration of the juſt Reaſons of this their preſent concealment, <hi>Vale.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:179729:2" rendition="simple:additions"/>
+            <p>
+               <seg rend="decorInit">W</seg>E the Subſcribers of this our Apologeticall Declaration, who deſire to approve our ſelves ſincere Profeſſors of the true Reformed Proteſtant Religion, Presbyterian Citizens and Inhabitants of the honourable, and, lately, famous and re<g ref="char:EOLhyphen"/>nowned City of <hi>London,</hi> who have cordially adhered unto the Parliament, in its firſt and ſecond War againſt the Kings Forces, for the defence of the true Proteſtant Religion, His Majeſties Perſon, Crown and Dignity, the Rights and Priviledges of both Houſes of Parliament, and, in them, the Lawes and Liberties of the King<g ref="char:EOLhyphen"/>dome: Calling to minde our ſolemne engagements, not only by our Pro<g ref="char:EOLhyphen"/>teſtation, <hi>May,</hi> 5th, 1641. but eſpecially our ſolemne League and Covenant, which was ſo religiouſly and unanimouſly ſworn unto, <hi>with our hands lifted up to the high and holy God of Heaven, that we would really, ſincerely and conſtantly, through the grace of God, in our ſeverall Callings, and with our lives and eſtates, endevour the preſervation of them all;</hi> Artic: 1: 2, 3. &amp;c. And, being in our Conſciences perſwaded and aſſured of our indiſpen<g ref="char:EOLhyphen"/>ſible obligation ſo to do, becauſe moſt deeply engaged by our ſaid Covenant, <hi>not to ſuffer our ſelves directly or indirectly, by whatſoever combination, perſwaſion, or terror, to be divided or withdrawn from that Cauſe which ſo much concerneth the glory of God, the good of the Kingdome, and hon<g ref="char:EOLhyphen"/>our of the King: But, all the dayes of our lives zealouſly and constantly to continue therein againſt all oppoſition.</hi> Artic. 6. And, whereas, by wofull experience, we are made very ſenſible of the dangerous effects of the violation of all our Covenant-concernments, and of the diſappointment of our hopes of reaping the expected fruits of this defenſive war, for which, we the Subſcribers, have, many of us, adventured our lives, and moſt of us, our eſtates, in a meaſure, beyond our abilities, beſides the Common Taxes that have been impoſed upon us. And, though wee cannot but with bleed<g ref="char:EOLhyphen"/>ing and trembling hearts complain that our Cauſe doth in theſe ſad and perillous times in which we live, meet with ſuch violent Oppoſition, ſuch mighty Lets and Impediments as we are not able to ſuppreſſe and overcome, yet, conſidering with our ſelves, that what we cannot ſuppreſſe or over<g ref="char:EOLhyphen"/>come, we are obliged to reveal and make known. <hi>Artic.</hi> 6. Being alſo mo<g ref="char:EOLhyphen"/>ved with fear, leſt in this time of imminent danger to all that is dear unto us, our Silence ſhould be taken for Conſent; and ſo contract upon our ſelves the guilt of betraying Religion, King, Parliament, the Lawes and Li<g ref="char:EOLhyphen"/>berties of this Nation; having alſo no other way left us to ſet our Conſci<g ref="char:EOLhyphen"/>ences at liberty from the aforeſaid guilt, we might contract by our ſinfull ſilence, in this juncture of time. We do, therefore, with all ſincerity, fide<g ref="char:EOLhyphen"/>lity, zeal, and humility, before the moſt juſt and righteous Lord of Heaven and earth, make known unto all the three Kingdomes of <hi>England, Scotland</hi> and <hi>Ireland,</hi> to all the Reformed Churches, and unto the whole Chriſtian World, not onely the diſ-ſatisfaction of our Spirits, at the late and preſent
+<pb facs="tcp:179729:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:179729:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:179729:4" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:179729:5"/>
+Tranſactions of thoſe who have forcibly aſſumed the Supreme-power unto their own hands: But alſo do make this our following moſt ſolemne and ſerious Apologeticall Declaration for our clearing and juſtification from allowing or aſſenting to the illegall actings of theſe preſent times. And that we may alſo publiſh unto the world the grounds of theſe our moſt juſt exceptions and neceſſitated complaints herein, we declare, That, not on<g ref="char:EOLhyphen"/>ly in generall, our righteous Cauſe before mentioned is perverted, deſerted, apoſtatized, and fallen from: by thoſe who moſt injuriouſly and falſly re<g ref="char:EOLhyphen"/>proach us with Apoſtacie for not aſſociating with them, and bearing them companie in their unwarrantable wayes; But, alſo, in particular, that it is perverted, and abuſed in every part and branch thereof. As firſt, in point of our Religion, which we are moſt deeply engaged by Covenant to preſerve and reforme in power and purity; Whereas in our own experience (con<g ref="char:EOLhyphen"/>firmed by the Parliaments, firſt Remonſtrance, Exact Collect: <hi>pag.</hi> 4.) Religion, in its purity was greatly endangered, in the Prelates times in the Doctrinall part, by the errors of <hi>Popery</hi> and <hi>Arminianiſme;</hi> and in worſhip, with ſuperſtitious Innovations: And, in our ſad apprehenſion, the Do<g ref="char:EOLhyphen"/>ctrine of the Goſpell is, now adayes, not onely more endangered through the increaſe of <hi>Popery</hi> and <hi>Arminianiſme,</hi> but of moſt blaſphemous <hi>Antiſcrip<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uriſme, Antitrinirarianiſme, Antinomianiſme, Socinianiſme,</hi> and many other ſuch like heterodox opinions, and damnable Doctrines: But alſo in point of worſhip, which, inſtead of fear of corrupting, is, now, in great danger of abſolute Nulling, by accurſed opinions both againſt the very being of Ordinances, the ſet-times and dayes appointed by God for their Admini<g ref="char:EOLhyphen"/>ſtration, and even of the Officers and Miniſters appointed by Jeſus Chriſt, for their diſpenſation. Which doth the more ſadly affect our hearts, and enforce this juſt Declaration and complaint, becauſe of that ſo eagerly en<g ref="char:EOLhyphen"/>deavoured unwarrantable Tolerating of them all (except, in that ſubtill exception of theirs, of the open practiſe of Popery and Prelacie) as if it were that Liberty of Conſcience which we have all this while engaged for; But, rather, againſt which, We doe not onely proteſt, but contrariwiſe profeſſe and declare that it was, onely a Liberty of Conſcience from ſin and error, which wee propounded in our Freedome from our former Egyptian Taskmaſters the Prelates.</p>
+            <p>In the next place, we further declare againſt the perverting of our Cauſe, in relation to the preſervation of the Rights and Priviledges of Parliament. For, although we were not able to preſerve and defend them, when vio<g ref="char:EOLhyphen"/>lated by that unpattern'd and horrid force upon the Houſe, <hi>Decemb:</hi> 6 and 7, laſt, 1648. Yet we conceive our ſelves obliged to Declare againſt it, and againſt the impriſoning and ſecluding ſo many of the faithfulleſt <hi>Patriots</hi> and aſſertors of the publick intereſt of the Kingdome; And alſo againſt the moſt inſolent ſubverſion and alteration of the conſtitution of the Su<g ref="char:EOLhyphen"/>preme judicatorie of the Kingdome, conſiſting of the Kings Perſonall or Virtuall Preſence, Lords and Commons, without whom (as we have been alwayes taught and informed) no Law can be enacted or repealed; The confirmation and inviolable ſettlement of which happie Nationall conſti<g ref="char:EOLhyphen"/>tution, with its preſervation, were the grounds of our Engagements, and no change or alteration of the ſame: Whereas, now, to the unexpreſſible
+<pb n="5" facs="tcp:179729:5" rendition="simple:additions"/>
+grief of our Soules, we ſee a moſt ſtrong and fierce combination in the Ge<g ref="char:EOLhyphen"/>nerall and Armies Counſell of Warre, and others of their partie (ſet forth to the view of us all, in that Modell of theirs, called, <hi>The Agreement of the Pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ple,</hi> and preſented to that which they call the Parliament, <hi>Januarie,</hi> 20th, 1648.) utterly to ſubvert and overthrow the whole frame of our foreſaid Legall Government, and to introduce and enforce upon us a moſt uncouth, ſtrange, and headleſſe confuſed Arbitrary and tyrannicall Government of their own deviſing, and by a new as headleſſe Repreſentative of their own compacting; and yet all this while, (even whiles they are moſt violently endeavouring to overthrow all our Nationall Fundamentall Government, the very traiterous act for which the Earle of <hi>Straford</hi> and <hi>Can<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> dyed, and which they now lay to the Kings charge to deſtroy him) moſt fallaciouſly and hypocritically they proteſt, and ſtrugle to perſwade us (as, in <hi>pag,</hi> 29. of their foreſaid, <hi>Agreement of the People) that they are farre from any deſire or thought, to aſſum or exerciſe a Law-giving</hi> (theſe are their own words) <hi>or judiciall power over the Kingdome, or to meddle in any thing, ſave the fundamentall ſettling of that power in the moſt equall or hopefull way</hi> (as they pretend) <hi>for common Right and Safety; and this, they ſay, they humbly tender to us, to conſider, and accept of, if we pleaſe;</hi> Whereas, alas, we know, and <hi>ancient experience hath taught us to know, that a Tyrants or Conquerors, Pray, is an irreſiſtible Command;</hi> And this alſo is it, we thus juſtly complain of and declare againſt.</p>
+            <p>But, in the third place, in relation to our Engagement by the Sword, and Covenant to defend and preſerve our Liberties and Freedoms (in this our late, moſt famous and honourable City of <hi>London</hi>) according to Law; we are moſt heartily ſorie for the too juſt occaſion that we have to publiſh, and reveal the moſt evident Perverſion of our Cauſe under this conſidera<g ref="char:EOLhyphen"/>tion alſo. For, whereas, to enjoy a Propriety in our eſtates, with a Free<g ref="char:EOLhyphen"/>dome from Pattentes, Monopolies, Ship-money, and other illegall Impoſi<g ref="char:EOLhyphen"/>tions and Taxes, the Liberty of our Perſons from unlawfull Arreſts and Im<g ref="char:EOLhyphen"/>priſonments, contrary unto Magna Charta, our freeborn Engliſh Spirits were raiſed (for their Preſervation and defence) moſt freely and even pro<g ref="char:EOLhyphen"/>digally to lay out our perſons and purſes: We are, now, not onely in dan<g ref="char:EOLhyphen"/>ger of intolerable ſlavery inſtead of Freedom and liberty, according to Law But, to have our Franchiſes and Priviledges, as Freemen of this City votes and rent from us. The deep wounding thoughts whereof do ſo affect and peirce our hearts, that we cannot any longer forbear mournfully to com<g ref="char:EOLhyphen"/>plain, and Declare, That, ſince the 7th of <hi>December</hi> laſt, we are not onely de<g ref="char:EOLhyphen"/>prived of our Freedome and liberty to make choice of ſuch Common Counſell-men, who have all along approved themſelves, to God, the Par<g ref="char:EOLhyphen"/>liament, and City, men faithfull in their truſt; they being, now, made unca<g ref="char:EOLhyphen"/>pable of being choſen thereunto, becauſe of their honeſt Activity for the Perſonall Treaty; And that, by an Ordinance made after this ſuppoſed crime was acted. And now, as a ſad fruit of it, through many Common-Counſell-men moſt illegally and forcibly choſen, in part of a Common-Counſell, is paſſed a Petition, which at beſt, ſhews the framers and promo<g ref="char:EOLhyphen"/>ters thereof, onely to minde Earthly things, not a word of any Religious
+<pb n="6" facs="tcp:179729:6"/>
+or Heavenly concernment, being once mentioned in it; And, it is intitu<g ref="char:EOLhyphen"/>led, <hi>The petition of the Commons of the City of London:</hi> Which is not on<g ref="char:EOLhyphen"/>ly a foule injurie and blemiſh unto the truly religious and cordiall Com<g ref="char:EOLhyphen"/>mons thereof; but fills us alſo with fear of future ſore breaches of our Fran<g ref="char:EOLhyphen"/>chiſes, and City-liberties, if not to the totall ſubverſion of the whole Frame of the well-conſtituted and long experienced good Government of one of the moſt glorious and renowned Cities in the Chriſtian world. All which moſt injurious irregularities we cannot choſe, as Citizens, but with ineffable greif of heart, here, Declare and complain of, being in conſcience obliged hereunto, even by the Oath of Freemen; viz: <hi>The Franchiſes and cuſtomes of this City you ſhall maintain.</hi> So that, whereas, we fought for the defence of our Liberties by Law, that our Engliſh Spirits might not be intimidated or beſlaved by the Kings deſigne of bringing in of Germane-horſe: We are, now, ſo farre from ſeeing any ſure Foundations, for our Liberties and Freedome, according to Law, that we look upon our ſelves in exceeding great danger (upon that Common plea of the Army, Neceſſity) to be miſerably ſubjected to Martiall Law, inſtead of being ruled by the Municipall-Law of the Kingdom.</p>
+            <p>And yet, as if nothing ſhould be wanting to make us completely miſer<g ref="char:EOLhyphen"/>able and exquiſitely to pervert our Cauſe throughout; When both King and Parliament were in an hopfull way not onely of being reconciled, but of ſettling the Kingdome in a way that would have anſwered, (in ſome competent meaſure, for the preſent) the expenſe of our blood and treaſure, and our Covenant-engagement alſo; we are now not, onely diſappointed in our hopes thereof: But, his Majeſties Royall Perſon (the defence and preſervation whereof, though ſo carefully provided for, by the many De<g ref="char:EOLhyphen"/>clarations of the Parliament, the frequent Proclamations in our ſtreets by the beat of the Drum, at the beginning of theſe Wars, by our Proteſtation <hi>May</hi> 5th, 1641, and by our Solemn League and Covenant; yet as if the end of our engaging with the Parliament had been for the ruine of the Kings perſon and regall Authority) His Majeſties Perſon, we ſay, is not onely in extreme danger, by being expoſed unto a Tryall without warrant either from the Word of God, or the Laws of the Land: But alſo is thereby plun<g ref="char:EOLhyphen"/>ged into ſuch a nature and condition, as is altogether derogatorie to and inconſiſtent with the Kings Honour, which we profeſſe in our Covenant, is the 3d part of our Cauſe, for which we engaged. <hi>Artic:</hi> 6 That the world, therefore, (to whom we appealed, when we entred into Covenant to pre<g ref="char:EOLhyphen"/>ſerve and defend the Kings Majeſties Perſon, and authority, in the preſer<g ref="char:EOLhyphen"/>vation and defence of the true Proteſtant-Religion, and Liberties of the Kingdom) yea the Lord God himſelfe, Angels and Men, may bear witneſſe with our Conſciences, that we have no thoughts or intentions (nor ever had) to diminiſh His Majeſties juſt power and greatneſſe, and that we the Subſcribers hereof are not Covenant-breakers, but do utterly diſlike and diſavow the preſent proceedings againſt him, either to the taking away of His Majeſties Crown, much leſſe his life, the very thought whereof we from our ſouls deteſt and abhor; We do, hereby, moſt freely faithfully and plain<g ref="char:EOLhyphen"/>ly diſcharge our conſciences, and do teſtifie our loyaltie unto the Kings
+<pb n="7" facs="tcp:179729:6" rendition="simple:additions"/>
+Majeſtie according to the duty of our allegiance, expreſſed in the foreſaid Proteſtation, <hi>May,</hi> 5th, 1641, and the Solemn League and Covenant. And we do, hereby, further declare, that when we ſo cordially concurred with the Parliament at firſt, in the oppoſition of the Forces raiſed by the King (ſeduced by evill Counſellors) as we propouned the preſervation and de<g ref="char:EOLhyphen"/>fence of our Religion, Parliament, Laws and Liberties: ſo, alſo, to preſerve, and not to ruine the Kings Perſon; but, mainly <hi>to remove the wicked from his throne, that ſo it might be eſtabliſhed in Righteouſneſſe to Him and his roy<g ref="char:EOLhyphen"/>all Poſterity;</hi> But, we ſay not to pluck Him out of it, and to bring him to an Arbitrary-tryall for his life, both in reſpect of his Judges and their Law</p>
+            <p>In ſumme, therefore, we have (in all theſe moſt weighty reſpects) too great and juſt cauſe to be extraordinarie ſenſible, that the bringing of the King (the Head of the Common-wealth) to a tryall for his life, before an arbitrary and illegall power, warranted by no Law of God or Man, and the moſt ſtrange, irregular and unparallel'd proceedings, and contemptuous carriages toward His Majeſtie, The puting down of the Houſe of Lords, and, The reſtraining of ſo many eminent Members of Parliament, by the Gene<g ref="char:EOLhyphen"/>rall Councell of Officers in Arms, againſt all Laws of God and Man, the known priviledges of Parliament, the liberties of the Subject, and their juſtification of all theſe exorbitances, in print, inſtead of Repen<g ref="char:EOLhyphen"/>tance and deep humiliation for the ſame, is but a ſad prologue to the enſuing ſlavery and ruine of all the free borne Subjects of this Re<g ref="char:EOLhyphen"/>alm: For, if the Head and moſt eminent Members of the Common wealth, legally to be protected from violence and tyranny, by ſo many Oaths, Co<g ref="char:EOLhyphen"/>venants priviledges, Laws and Engagements, be thus tyrannically and bar<g ref="char:EOLhyphen"/>barouſly, already, inſulted over, and trampled under feet, like duſt in the ſtreets, by an imperious Military-power; We, who are inferior to them in all reſpects, and not invironed with ſo many priviledges and protections, cannot but moſt juſtly fear and expect far greater inſolencies and intoler<g ref="char:EOLhyphen"/>able preſſours to be unmercifully exerciſed on us by them, when theſe pil<g ref="char:EOLhyphen"/>lars and foundations are not onely thus ſhaken, but even quite removed and ſet by; According to our Saviours own words. <hi>Matth</hi> 10.25. <hi>If they have called the maſter of the houſe Beelzebub, how much more wil they call them ſo, that are of his houſhold?</hi> In ſad and ſerious conſideration hereof, therefore, we ſay, again and again, we cannot poſſibly keep ſilence, though it be an evill; nay, becauſe it is ſo evill a time: But as profeſſors of the true reformed Proteſtant Religion, which teacheth no ſuch Doctrines, as theſe fore-mentioned, and as are, now adayes ſo unbluſhingly practiſed, in rela<g ref="char:EOLhyphen"/>tion to the Kings Majeſty, and to the reſt of his free-borne Subjects, without any reſpect, or leaſt diſtinction to their places or qualities; That we may, as much as in us lyes, wipe-off that foul blot and ſcandalous ſtain that will (otherwiſe) inevitably fall upon Religion, by this moſt horrid breach of our Covenant, eſpecially in relation to our King; that profeſſors of the Go<g ref="char:EOLhyphen"/>ſpell in other Kingdoms may not alſo ſuffer by being caſt out of royall pro<g ref="char:EOLhyphen"/>tection, for the ſin of ſome (pretended) profeſſors among us; And that we our ſelves (when the approaching Earthquake, which is like to be in the three Kingdoms by fearfull commotions and endles wars, and inevitably
+<pb n="8" facs="tcp:179729:7"/>
+like to attend the intended depoſure, or violent death of our Soveraign King, ſadly falls upon us) may not have outward miſery, and inward guilt to meet together without and within us, even our Conſciences flying in our faces, for our (at leaſt ſeeming) conſent unto it, by our ſinfull ſilence, But what we may in the ſingleneſſe and ſincerity of our hearts) waſh our hands and clear our innocencie in the ſight of God and the whole Chriſtian world: We do not onely, in generall, make this our juſt Apologie that we are far from the approving of the breath of our Covenant in any part or branch of it; But, in particular, in reference to that of the Kings Perſon; ſo clear and innocent that we declare our Deteſtation and Souls abhor<g ref="char:EOLhyphen"/>rency of that moſt diſloyall action; conceiving it to be ſuch a ſin, as Men muſt create a New Name, for, and God a New Hell or puniſhment for it.</p>
+            <p>And, thus now, having (in the unfeined ſincerity of our hearts) witneſ<g ref="char:EOLhyphen"/>ſed a good Confeſſion, as in the ſight of God, and Men; not from a facti<g ref="char:EOLhyphen"/>ous, ſeditious, vain-glorious, or peeviſh Spirit of contradiction, or in the leaſt tinctured vile malignity, or apoſtacie from the common cauſe of Reli<g ref="char:EOLhyphen"/>gion, Liberty and peace of the Kingdome; Though we fear not perſecution (for righteoſneſſe ſake in being true to our principles) from thoſe who have power, now, in their hands: yet, not knowing whether by Gods per<g ref="char:EOLhyphen"/>miſſive providence, <hi>Satan may not <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt ſome of us into priſon</hi> for, thus, ſetting our Conſciences at liberty; We therefore commit our Souls, in this our Well-doing unto God, as unto a faithfull Creator, hyding our ſelves under the ſhadow of his wings, till theſe calamities be over paſt, and looking unto Jeſus, who hath aſſured us, <hi>That whoſoever ſhall forſake houſes or brethren, or ſiſters, or father or mother, or wife or children, or lands for his Name and Truths ſake, he ſhall receive an hundreth fold, and ſhall inherit ever<g ref="char:EOLhyphen"/>laſting life.</hi> We have therefore hereunto ſubſcribed our Names with our hearts and hands;</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
